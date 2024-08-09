@@ -1,4 +1,4 @@
-<span style="color:purple"># Animated Fox</span>
+<span style="color:purple">## Animated Fox</span>
 
 ## Features
 
