@@ -1,5 +1,3 @@
-```markdown
-
 # Animated Fox
 
 ## Features
@@ -39,5 +37,3 @@ If you encounter any issues:
 - Verify that your Bevy version is exactly 0.14.1.
 - Ensure that the `Fox.glb` file is correctly placed in the assets directory.
 - Check that your `Fox.glb` file contains the expected animations.
-
-```
