@@ -1,4 +1,5 @@
 ```markdown
+
 # Animated Fox
 
 ## Features
@@ -8,7 +9,7 @@
 - Camera positioning
 - Animation playback controls
 - Multiple animation clips
-- Utilizes Bevy 0.14.1's animation system
+- Utilizes Bevy 0.14.1's animation syste
 
 ## Controls
 
@@ -22,14 +23,12 @@
 ## Setup
 
 1. Ensure you have Rust and Cargo installed on your system. If not, install them from [https://www.rust-lang.org/](https://www.rust-lang.org/).
-
 2. Clone this repository:
-   ```bash
-   git clone https://github.com/MunishMummadi/animated_fox.git
-   cd animated_fox
-   ```
+```bash
+git clone https://github.com/MunishMummadi/animated_fox.git
+cd animated_fox
 
-## Prerequisites
+##Prerequisites
 
 - Rust (latest stable version)
 - Bevy 0.14.1
@@ -37,8 +36,8 @@
 ## Troubleshooting
 
 If you encounter any issues:
-
 - Verify that your Bevy version is exactly 0.14.1.
 - Ensure that the `Fox.glb` file is correctly placed in the assets directory.
 - Check that your `Fox.glb` file contains the expected animations.
+
 ```
