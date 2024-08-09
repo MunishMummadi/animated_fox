@@ -1,5 +1,3 @@
-Got it! Here’s the revised markdown with the `Prerequisites` and `Troubleshooting` sections included properly:
-
 ```markdown
 # Animated Fox
 
