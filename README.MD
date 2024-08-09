@@ -25,7 +25,7 @@
 ```bash
 git clone https://github.com/MunishMummadi/animated_fox.git
 cd animated_fox
-
+```
 ##Prerequisites
 
 - Rust (latest stable version)
