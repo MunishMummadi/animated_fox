@@ -26,7 +26,7 @@
 git clone https://github.com/MunishMummadi/animated_fox.git
 cd animated_fox
 ```
-##Prerequisites
+## Prerequisites
 
 - Rust (latest stable version)
 - Bevy 0.14.1
